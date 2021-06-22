@@ -19,7 +19,7 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout_tracker
     useFindAndModify: false
 });
 
-// require routes
+require(apiRoute)(app);
 require("./routes/htmlroutes")(app);
 require("./routes/apiroutes")(app);
 
