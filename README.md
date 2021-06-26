@@ -7,7 +7,7 @@
   * [Project Description](#project-description)
   * [Installation](#installation)
   * [License](#license)
-  * [Contributing](#contributing)
+  * [Screenshots](#screenshots)
   * [Demo Video](#Project-Demo-Video)
   * [Questions?](#questions)
   
@@ -23,9 +23,9 @@
   
   This project is under MIT for licensing.
   
-  ## Contributing
+  ## Screenshots
   
-  N/A
+  
   
   ## Deployed App
   
