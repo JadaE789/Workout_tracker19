@@ -25,8 +25,10 @@
   
   ## Screenshots
   
-  
-  
+  ![HomePage](https://user-images.githubusercontent.com/77691626/123501532-922bd180-d613-11eb-8efe-6fe27bff3dbb.PNG)
+
+  ![Dashboard](https://user-images.githubusercontent.com/77691626/123501518-7fb19800-d613-11eb-9159-0d06324d664f.PNG)
+
   ## Deployed App
   
   https://workout-tracker19.herokuapp.com/
